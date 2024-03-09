@@ -14,5 +14,11 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
-box
+cnnClassifier
+python-box
+pyyaml
+joblib
+ensure
+
+
 -e .
